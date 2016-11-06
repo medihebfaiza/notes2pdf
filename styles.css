@@ -1,0 +1,49 @@
+h1{
+  font-family: 'Space Mono', monospace;
+  color: #910000 ;
+  text-align: center;
+}
+
+.subtitle {
+  font-family: 'Space Mono', monospace;
+  font-size: 18px ;
+  color: #323232 ;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Space Mono', monospace;
+  color: #910000 ;
+}
+
+h3{
+  font-family: 'Roboto', monospace;
+  color: #009124 ;
+  padding-left: 4px ;
+}
+
+h4{
+  font-family: 'Roboto', monospace;
+  color: #005091 ;
+  padding-left: 12px ;
+}
+
+.definition {
+  font-family: 'Roboto', sans-serif;
+  padding-left: 6px ;
+  border-left: 6px solid #000000;
+  border-radius: 4px;
+  background-color: #910000;
+  color: white;
+}
+
+.remark {
+  font-family: 'Roboto', sans-serif;
+  padding-left: 6px ;
+  border: 2px solid #009124;
+  border-radius: 8px;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
